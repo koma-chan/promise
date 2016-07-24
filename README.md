@@ -1,7 +1,7 @@
 # promise
 Promises/A+ implementation for browser
 
-api
+**API**
 -Promise.prototype.then
 -Promise.prototype.catch
 -Promise.prototype.done
