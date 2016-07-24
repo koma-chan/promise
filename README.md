@@ -7,7 +7,6 @@ Promises/A+ implementation for browser
     - Promise.prototype.catch
     - Promise.prototype.done
     - Promise.prototype.finally
-
     - Promise.all
     - Promise.race
     - Promise.resolve
